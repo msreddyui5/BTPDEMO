@@ -1,0 +1,6 @@
+Invoice,Branch,City,CustomertType,ProductType,Price,Quantity,Total,Payment
+INV001,A,New York,Member,Electronics,299.99,1,299.99,Credit Card
+INV002,B,Los Angeles,Normal,Groceries,15.5,10,155.0,Cash
+INV003,A,New York,Normal,Clothing,49.99,2,99.98,E-Wallet
+INV004,C,Chicago,Member,Electronics,199.99,1,199.99,Credit Card
+INV005,B,Los Angeles,Member,Groceries,25.75,5,128.75,Cash
